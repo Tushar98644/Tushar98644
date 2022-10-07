@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development,Game Development,App Development**
 
-- 📫 connect with me on **tusharbanik567@gmail.com,<a href="https://www.instagram.com/the_invincible_camatrist/">Instagram</a>,<a href="https://www.linkedin.com/in/tushar-banik-632a51226/">Linkedin</a>
+- 📫 connect with me on tusharbanik567@gmail.com,<a href="https://www.instagram.com/the_invincible_camatrist/">Instagram</a>,<a href="https://www.linkedin.com/in/tushar-banik-632a51226/">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
