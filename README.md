@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently acquiring new skills on **Nodejs,React,Django and Flutter**
 
-- 👯 I’m looking to collaborate on **Figma,Flutter,Unity,Web,Open-source related projects**
+- 👯 I’m looking to collaborate on **Figma,Flutter,Unity,Web related projects**
 
 - 💬 Ask me about **Web Development,Game Development,App Development**
 
