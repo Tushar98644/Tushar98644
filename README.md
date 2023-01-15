@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development,Game Development,App Development,Design,Video Editing**
 
-- 📫 connect with me on tusharbanik567@gmail.com,<a href="https://www.instagram.com/the_invincible_camatrist/">Instagram</a>,<a href="https://www.linkedin.com/in/tushar-banik-632a51226/">Linkedin</a>
+- 📫 connect with me evilden982@gmail.com,<a href="https://www.instagram.com/the_invincible_camatrist/">Instagram</a>,<a href="https://www.linkedin.com/in/tushar-banik-632a51226/">Linkedin</a>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
