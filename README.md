@@ -33,3 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar98644&" alt="tushar98644" /></p>
 
+[![An image of @tushar_banik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tushar_banik)](https://holopin.io/@tushar_banik)
+
