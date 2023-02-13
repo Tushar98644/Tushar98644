@@ -31,12 +31,13 @@
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&count_private=true&&show_icons=true&&theme=radical)
 
-### Profile views counter
 
-![Visitor Count](https://profile-counter.glitch.me/{Sayan2908}/count.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar98644&theme=radical" alt="tushar98644" /></p>
 
 
 [![An image of @tushar_banik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tushar_banik)](https://holopin.io/@tushar_banik)
 
+### Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{Sayan2908}/count.svg)
