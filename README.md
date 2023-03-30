@@ -29,7 +29,6 @@
 
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&count_private=true&&show_icons=true&&theme=radical)
-![Tushar's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Tushar98644&count_private=true&&show_icons=true&&theme=radical)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar98644&show_icons=true&locale=en&layout=compact&&theme=radical" alt="tushar98644" style="display:block"/></p>
