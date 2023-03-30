@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently acquiring new skills on **Nextjs,Reactjs,Django and Flutter**
+- 🔭 I’m currently acquiring new skills on **Nextjs,Typescript,Rust,and GoLang**
 
-- 👯 I’m looking to collaborate on **Figma,Flutter,Unity related projects**
+- 👯 I’m looking to collaborate on **Django,Flutter,Reactjs,Nextjs and Unity related projects**
 
 - 💬 Ask me about **Web Development,Game Development,App Development,Design,Video Editing**
 
@@ -30,7 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar98644&show_icons=true&locale=en&layout=compact&&theme=radical" alt="tushar98644" /></p>
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&count_private=true&&show_icons=true&&theme=radical)
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar98644&theme=radical" alt="tushar98644" /></p>
