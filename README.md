@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently acquiring new skills on **Nextjs,Typescript,Rust,and GoLang**
+- 🔭 I’m currently acquiring new skills on **Typescript,Ruby and GoLang**
 
-- 👯 I’m looking to collaborate on **Django,Flutter,Nextjs,Turborepo and Unity related projects**
+- 👯 I’m looking to collaborate on **Django, Flutter, Nextjs, Turborepo and Unity-related projects**
 
-- 💬 Ask me about **Web Development,Game Development,App Development,Design,Video Editing**
+- 💬 Ask me about **Web Development, Game Development, App Development, Design, Video Editing**
 
 - 📫 connect with me evilden982@gmail.com,<a href="https://www.instagram.com/the_invincible_camatrist/">Instagram</a>,<a href="https://www.linkedin.com/in/tushar-banik-632a51226/">Linkedin</a>
 
@@ -33,9 +33,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tushar98644&theme=radical&hide_border=false&&count_private=true)](https://git.io/streak-stats)
 
-
 [![An image of @tushar_banik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tushar_banik)](https://holopin.io/@tushar_banik)
-
 
 ### Profile views counter
 
