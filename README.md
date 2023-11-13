@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently acquiring new skills on **Typescript,Ruby and GoLang**
+- 🔭 I’m currently acquiring new skills on **Typescript,Ruby,Rust and GoLang**
 
 - 👯 I’m looking to collaborate on **Django, Flutter, Nextjs, Turborepo and Unity-related projects**
 
