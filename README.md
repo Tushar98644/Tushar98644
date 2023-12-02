@@ -91,6 +91,13 @@
 
 <hr>
 
+<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
+<h4 align="left">
+<b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
+
+<p>
+<p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar98644&show_icons=true&langs_count=8&locale=en&layout=compact&&theme=dracula&&count_private=true" alt="tushar98644" style="display:flex"/></p>
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&show_icons=true&theme=dracula&&count_private=true)
