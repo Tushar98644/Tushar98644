@@ -93,6 +93,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E97627?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-E97627?style=flat-square&logo=grafana&logoColor=white)
 ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
 ![Sanity](https://img.shields.io/badge/-Sanity-333333?style=flat-square&logo=sanity&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
