@@ -123,7 +123,7 @@
 <p>
 <p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar98644&show_icons=true&langs_count=10&locale=en&layout=compact&&theme=dracula&&count_private=true" alt="tushar98644" style="display:flex"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar98644&show_icons=true&langs_count=12&locale=en&layout=compact&&theme=dracula&&count_private=true" alt="tushar98644" style="display:flex"/></p>
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&show_icons=true&theme=dracula&&count_private=true)
 
