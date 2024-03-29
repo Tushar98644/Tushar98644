@@ -124,7 +124,7 @@
 <p>
 <p>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar98644&show_icons=true&langs_count=12&locale=en&layout=compact&&theme=dracula&&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar98644&show_icons=true&langs_count=14&locale=en&layout=compact&&theme=dracula&&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&show_icons=true&theme=dracula&&count_private=true)
 
