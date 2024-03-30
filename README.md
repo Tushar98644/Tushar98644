@@ -130,7 +130,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tushar98644&theme=dracula&hide_border=false&&count_private=true)](https://git.io/streak-stats)
 
-![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar98644&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Tushar98644/github-readme-activity-graph)
+![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar98644&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Tushar98644}/count.svg/" alt="Tushar's Visitor's count" /></p>
 
