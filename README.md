@@ -18,7 +18,7 @@
 
 <br>
 
-<h3>How I'd define myself...literally</h3>
+<h3> How I'd define myself...literally </h3>
 
  ```ruby
  class Sy < Person
