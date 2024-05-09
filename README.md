@@ -25,7 +25,7 @@
    def initialize
      @name = 'Tushar Banik'
      @age = 21
-     @work = [ 'Translead', 'C4GT', 'Protofac' ]
+     @work = [ 'GSoC', 'C4GT', 'Translead', 'Protofac' ]
      @education = [ 'South Point', 'Allen Guwahati' 'IIT Guwahati' ]
      @hobbies = [ 'Cricket', 'Reading', 'Coding', 'Anime' ]
    end
