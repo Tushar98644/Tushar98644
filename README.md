@@ -19,47 +19,35 @@ Welcome, curious coder! 🧭
 Hi! I’m <b>Tushar</b> 👋 — a developer who believes in making the web a cooler, smarter, and more accessible place.  
 I thrive on turning ideas into reality with code, and I never shy away from a challenge (or a good meme).
 
-- 🌏 &nbsp;Based somewhere on Planet Earth  
-- 🦸‍♂️ &nbsp;Full Stack Explorer & Tech Tinkerer  
-- 🧠 &nbsp;Infinite learner & knowledge sponge  
-- 🛠️ &nbsp;Maker of things—sometimes useful, sometimes just for fun  
-- 🎲 &nbsp;Random fact generator (try me!)
-
 </br>
 
-<!-- ------>
- 
-## 🧬 How I'd Define Myself... Literally
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dksie09&label=Profile%20views&color=d4b3df&style=flat-square" alt="dksie09" /> </p>
+<img align = "right" alt = coding height = "460px" src="https://i.ibb.co/vxm41K9r/github-profile.jpg">
 
-```ruby
-class TusharBanik < Human
-  def initialize
-    @name        = "Tushar Banik"
-    @aka         = "Tushar98644"
-    @age         = 22
-    @origin      = "Guwahati, Assam, India"
-    @currently   = {
-      studying:   "Alumnus @ IIT Guwahati",
-      working_on: ["Wordsy", "OpsBox", "ProjectHub"],
-      learning:   ["Solana", "Agentic AI", "Go",  "Rails 7"],
-      reading:    ["Rails 7 Development", "AR: Unity AR Foundation"]
-    }
-    @education   = [
-      "IIT Guwahati"
-      "South Point School",
-      "Allen Guwahati",
-    ]
-    @hobbies     = ["Cricket", "Reading", "Coding", "Anime", "Sightseeing"]
-    @superpowers = ["Open Source 🛠️", "Rapid Prototyping ⚡", "Biohacking 🧬", "Memes 🤓"]
-  end
+- 🚀 I’m currently learning **Solana, Agentic AI, Go, and Rails 7**
 
-  def catch_me
-    "When not gaming, find me binge-watching series or strategizing my next virtual adventure."
-  end
-end
+- 🤝 I’m looking to collaborate on **AI, Open Source, and Devops**
+
+- 💡 Forever tinkering, learning, and sharing content
+
+- 👨🏻‍💻 I'm an alumnus of **IIT Guwahati** 
+
+- 📫 How to reach me **evilden982@gmail.com**
+
+##
+In your terminal:
+```bash
+npx hi tushar
 ```
 
-</br>
+## 
+### Highlights
+
+> - Worked with folks [@GSoC](https://summerofcode.withgoogle.com/), [@C4GT](https://codeforgovtech.in/), [@Translead](), [@Protofac]()
+> - I love writing blogs & sharing what I learn. [Check out my Medium](https://medium.com/@evilden982)
+> - Always up for hackathons, open source collabs, and tech memes!
+
+<br />
 
 <!-- ------>
 
