@@ -1,163 +1,185 @@
-<pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
+<!--
+Welcome, curious coder! 🧭
+-->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F59E&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Tushar98644!;Developer+%7C+Dreamer+%7C+Doer;Welcome+to+my+space+on+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-</pre>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" />
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=89&pause=1000&center=true&vCenter=true&random=false&width=2300&height=384&lines=Hello!+I'm+Tushar.+I'm+a+full-stack%2C;+flutter%2C+unity%2C+and+web3+developer+building;digital+products.Welcome+to+my+Readme" alt="Typing SVG" /></a>
+<!-- ------>
 
-<br>
+## 🚀 About Me
 
-<h3> How I'd define myself...literally </h3>
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'Tushar Banik'
-     @age = 21
-     @work = [ 'GSoC', 'C4GT', 'Translead', 'Protofac' ]
-     @education = [ 'South Point', 'Allen Guwahati' 'IIT Guwahati' ]
-     @hobbies = [ 'Cricket', 'Reading', 'Coding', 'Anime' ]
-   end
+Hi! I’m <b>Tushar</b> 👋 — a developer who believes in making the web a cooler, smarter, and more accessible place.  
+I thrive on turning ideas into reality with code, and I never shy away from a challenge (or a good meme).
 
-   def current_location
-     [ 'Guwahati, Assam, India' ]
-   end
+- 🌏 &nbsp;Based somewhere on Planet Earth  
+- 🦸‍♂️ &nbsp;Full Stack Explorer & Tech Tinkerer  
+- 🧠 &nbsp;Infinite learner & knowledge sponge  
+- 🛠️ &nbsp;Maker of things—sometimes useful, sometimes just for fun  
+- 🎲 &nbsp;Random fact generator (try me!)
 
-   def currently
-     {
-       studying: [ 'Biosciences and Bioengineering' ],
-       reading: [ 'Rails 7 Development', 'AR: Unity AR Foundation' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet' ]
-      }
-   end
+</br>
 
-   ## Note: "When I'm not gaming, catch me binge-watching series or strategizing for my next virtual adventure."
- end
- ```
+<!-- ------>
  
-<br>
+## 🧬 How I'd Define Myself... Literally
 
-<hr>
+```ruby
+class TusharBanik < Human
+  def initialize
+    @name        = "Tushar Banik"
+    @aka         = "Tushar98644"
+    @age         = 22
+    @origin      = "Guwahati, Assam, India"
+    @currently   = {
+      studying:   "Alumnus @ IIT Guwahati",
+      working_on: ["Wordsy", "OpsBox", "ProjectHub"],
+      learning:   ["Solana", "Agentic AI", "Go",  "Rails 7"],
+      reading:    ["Rails 7 Development", "AR: Unity AR Foundation"]
+    }
+    @education   = [
+      "IIT Guwahati"
+      "South Point School",
+      "Allen Guwahati",
+    ]
+    @hobbies     = ["Cricket", "Reading", "Coding", "Anime", "Sightseeing"]
+    @superpowers = ["Open Source 🛠️", "Rapid Prototyping ⚡", "Biohacking 🧬", "Memes 🤓"]
+  end
+
+  def catch_me
+    "When not gaming, find me binge-watching series or strategizing my next virtual adventure."
+  end
+end
+```
+
+</br>
+
+<!-- ------>
+
+## 🛠️ Tech Arsenal
+
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>
-<a target="_blank" href="https://discord.gg/Tushar#6927"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/tushar-banik-632a51226/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:evilden982@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://instagram.com/the_invincible_camatrist"><img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@evilden982"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,r,react,vue,nextjs,nodejs,django,rails,go,html,css,tailwind,mongodb,postgres,git,dart,docker,aws,linux,webpack,postman,unity,figma," alt="Tech stack icons" />
+</p>
 
-<br>
-</p>    
+</br>
 
-<hr>
+<!-- ------>
 
-## ⚡ Technologies
+## 🌟 Projects That Spark Joy
 
-<!--🐱CAT-->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
-
-<!--🤔INTERESTTITLE-->
-<p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
-
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![R](https://img.shields.io/badge/-R-000000?style=flat-square&logo=R&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E97627?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-E97627?style=flat-square&logo=grafana&logoColor=white)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
-![Sanity](https://img.shields.io/badge/-Sanity-333333?style=flat-square&logo=sanity&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TurboRepo](https://img.shields.io/badge/-TurboRepo-00875A?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-0C0C0C?style=flat-square&logo=blackmagicdesign&logoColor=white)
-
-<hr>
-
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<h4 align="left">
-<b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-
-<p>
-<p>
+<div align="center">
+  <a href="https://github.com/Tushar98644/Apex.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar98644&repo=Apex&theme=github_dark" alt="Project 2" />
+  </a>
+  <a href="https://github.com/Tushar98644/PacketSentry.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar98644&repo=PacketSentry&theme=github_dark" alt="Project 1" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tushar98644/ProjectHub.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar98644&repo=ProjectHub&theme=github_dark" alt="Project 2" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Tushar98644/Terraform.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar98644&repo=Terraform&theme=github_dark" alt="Project 2" />
+  </a>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar98644&show_icons=true&langs_count=14&locale=en&layout=compact&&theme=dracula&&count_private=true")](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar98644&show_icons=true&theme=dracula&&count_private=true)
+<p align="center">
+  <a href="https://github.com/Tushar98644?tab=repositories">
+    <b>🔗 See all my projects &rarr;</b>
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tushar98644&theme=dracula&hide_border=false&&count_private=true)](https://git.io/streak-stats)
+</br>
 
-![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tushar98644&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
-<h3 align="center">Visitor's count</h3>
-<p align="center"><img src="https://profile-counter.glitch.me/{Tushar98644}/count.svg/" alt="Tushar's Visitor's count" /></p>
+<!-- ------>
 
-<hr> 
+## 📊 By the Numbers
 
-<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
-<h4 align="left">
-</h4>
- 
-╔═&nbsp;&nbsp;👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
-<h4>
-<h4 align="left">  
- 
-╚═════ &nbsp;𝐈𝐓'𝐒 [𝐃𝐀𝐑𝐊⚫](https://github.com/settings/appearance#gh-dark-mode-only)[𝐁𝐑𝐈𝐆𝐇𝐓⚪](https://github.com/settings/appearance#gh-light-mode-only) 𝐈𝐍 𝐇𝐄𝐑𝐄...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tushar98644&show_icons=true&theme=github_dark&hide_title=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tushar98644&theme=github-dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar98644&layout=compact&theme=github_dark" height="170"/>
+</p>
 
-<h4>
+</br>
 
-<!--🪳ROACH&🕷️SPIDER--> 
-<p align="left">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
- 
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<!-- ------>
 
-<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+## ⏰ When & What I Code Most
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar98644&theme=github-compact&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tushar98644&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tushar98644&theme=github_dark" height="150"/>
+</p>
+
+</br>
+
+<!-- ------>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Webpack: A Journey into Modern JavaScript Bundling](https://medium.com/dev-genius/webpack-a-journey-into-modern-javascript-bundling-62cc63729c17)
+- [Understanding Modules In Javascript: The easy way](https://medium.com/@evilden982/understanding-modules-in-javascript-the-easy-way-cf9340da4384)
+<!-- BLOG-POST-LIST:END -->
+
 <p align="right">
-<!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Saturday, December 17th, 2023, 11:07:09 AM</b>
+  <a href="https://medium.com/@evilden982"><strong>Browse all posts &rarr;</strong></a>
+</p>
+
+</br>
+
+<!-- ------>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tushar-banik"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/tushar_vibe"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:evilden982@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://vibe-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+</br>
+
+<!-- ------>
+
+## 🧩 Beyond the Code
+
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90" align="left" />
+      <b>🎵 Music fuels my flow:</b> Coding playlists for every occasion.<br>
+      <b>🌙 Night coder:</b> My best ideas surface after dark.<br>
+      <b>🎲 Puzzle solver:</b> Love hacking on logic puzzles and brain teasers.<br>
+      <b>💬 Open DMs:</b> Always up for tech talk, open source collabs, or meme sharing!<br>
+    </td>
+  </tr>
+</table>
+
+</br>
+
+<!-- ------>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tushar98644.Tushar98644" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=2000&pause=1000&color=00F59E&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Keep+building+%F0%9F%9A%80" alt="Thanks Typing SVG" />
+</p>
