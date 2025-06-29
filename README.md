@@ -12,7 +12,7 @@ Welcome, curious coder! 🧭
 
 <!-- ------>
 
-## 🚀 About Me
+## 🌐 About Me
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
