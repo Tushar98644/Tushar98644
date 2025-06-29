@@ -21,7 +21,7 @@ I thrive on turning ideas into reality with code, and I never shy away from a ch
 
 </br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Tushar98644&label=Profile%20views&color=d4b3df&style=flat-square" alt="tushar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Tushar98644&label=Profile%20views&color=blue&style=flat-square" alt="tushar" /> </p>
 <img align = "right" alt = coding height = "460px" src="https://i.ibb.co/vxm41K9r/github-profile.jpg">
 
 - 🚀 I’m currently learning **Solana, Agentic AI, Go, and Rails 7**
