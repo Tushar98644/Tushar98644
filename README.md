@@ -3,7 +3,7 @@ Welcome, curious coder! 🧭
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F59E&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Tushar98644!;Developer+%7C+Dreamer+%7C+Doer;Welcome+to+my+space+on+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F59E&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Tushar!;Developer+%7C+Dreamer+%7C+Doer;Welcome+to+my+space+on+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
